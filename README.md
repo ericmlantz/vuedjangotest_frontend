@@ -1,0 +1,1 @@
+# vuedjangotest_frontend
